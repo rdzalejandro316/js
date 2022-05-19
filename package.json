@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.2.4",
+    "rxjs": "^7.5.5"
+  },
+  "name": "js",
+  "version": "1.0.0",
+  "description": "examples js",
+  "main": "index.js",
+  "scripts": {
+    "obs": "node observable/obs.js",
+    "fetch": "node fetch/fetch.js"
+  },
+  "author": "alejandro",
+  "license": "ISC"
+}
